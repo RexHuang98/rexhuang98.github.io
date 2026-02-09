@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: prof_pic_old.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>One Pool Street, E20 2AF</p>
