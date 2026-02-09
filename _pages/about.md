@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: pixar_Yunqi.png
+  image: pixar_Yunqi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Robotics Lab, One Pool Street, E20 2AF</p>
