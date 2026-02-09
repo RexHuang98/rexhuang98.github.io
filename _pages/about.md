@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: pixar_Yunqi.jpg
+  align: left
+  image: pixar_yunqi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Robotics Lab, One Pool Street, E20 2AF</p>
