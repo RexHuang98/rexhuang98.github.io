@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: left
+  align: right
   image: pixar_Yunqi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -26,8 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year PhD Candidate in Computer Science at [University College London (UCL)](https://www.ucl.ac.uk/), focusing on **EIT-based Tactile Sensing Skin** and **Soft Robot Learning**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am fortunate to be advised by [Dr. Thomas George Thuruthel](https://tthuruthel.com/). My research aims to bridge the gap between soft materials and intelligent control, enabling robots to feel and interact with the world more naturally—much like an octopus! 🐙
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I completed my Master of Engineering in Mechanical Engineering at the [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by [Prof. Chui Chee Kong](https://blog.nus.edu.sg/mpecck/).
+
+Outside of the lab, I enjoy **snowboarding** 🏂 and hitting the **gym** 🏋️.
