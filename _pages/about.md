@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Robotics Lab, One Pool Street, E20 2AF</p>
+    <p>One Pool Street, E20 2AF</p>
     <p>London, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
