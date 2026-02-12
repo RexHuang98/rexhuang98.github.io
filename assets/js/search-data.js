@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -405,16 +405,29 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-on-eit-based-skin-is-accepted-to-ieee-ra-l",
+          title: 'Our paper on EIT-based Skin is accepted to IEEE RA-L! 📄',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-am-attending-robosoft-2025-in-lausanne",
+          title: 'I am attending RoboSoft 2025 in Lausanne! 🇨🇭',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-am-attending-iros-2025-in-hangzhou",
+          title: 'I am attending IROS 2025 in Hangzhou! 🇨🇳',
+          description: "",
+          section: "News",},{id: "news-i-will-be-joining-the-i2m-2026-program-at-lbs-go-entrepreneurs",
+          title: 'I will be joining the I2M 2026 program at LBS! Go Entrepreneurs! 🚀...',
+          description: "",
+          section: "News",},{id: "news-our-workshop-proposal-is-accepted-to-icra-2026-stay-tuned-for-more-details",
+          title: 'Our workshop proposal is accepted to ICRA 2026! Stay tuned for more details....',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-visual-proprioception-is-accepted-to-ieee-ra-l",
+          title: 'Our paper on Visual Proprioception is accepted to IEEE RA-L! 📄',
+          description: "",
+          section: "News",},{id: "news-two-papers-are-accepted-to-robosoft-2026-hope-to-see-you-in-kanazawa",
+          title: 'Two papers are accepted to RoboSoft 2026! Hope to see you in Kanazawa!...',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-to-icra-2026-hope-to-see-you-in-vienna",
+          title: 'One paper is accepted to ICRA 2026! Hope to see you in Vienna!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -476,21 +489,21 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/cv_pdf.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%79%75%6E%71%69.%68%75%61%6E%67.%32%33@%75%63%6C.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://inspirehep.net/authors/false", "_blank");
         },
       },{
         id: 'social-rss',
@@ -504,14 +517,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=IZTXOVEAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
