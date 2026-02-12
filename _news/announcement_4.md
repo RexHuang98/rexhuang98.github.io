@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our workshop proposal is accepted to **ICRA 2026**! Stay tuned for more details. 🔧
+Our [Workshop](https://large-area-tactile-sensing.github.io/) proposal is accepted to **ICRA 2026**! Stay tuned for more details!
