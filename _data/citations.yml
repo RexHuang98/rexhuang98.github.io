@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-20'
 papers:
   IZTXOVEAAAAJ:2osOgNQ5qMEC:
-    citations: 5
-    title: Predicting Interaction Shape of Soft Continuum Robots using Deep Visual Models
+    citations: 8
+    title: Predicting interaction shape of soft continuum robots using deep visual models
     year: '2024'
   IZTXOVEAAAAJ:IjCSPb-OGe4C:
     citations: 2
@@ -29,3 +29,7 @@ papers:
     citations: 14
     title: Modal analysis method for tensegrity structures via stiffness transformation from node space to task space
     year: '2020'
+  IZTXOVEAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Visual Proprioception and Contact Prediction for Soft Robotic Arms Using Onboard Sensing and Generative Models
+    year: '2026'
