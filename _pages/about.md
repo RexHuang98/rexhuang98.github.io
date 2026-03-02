@@ -28,7 +28,7 @@ latest_posts:
 
 I am a third-year PhD Candidate in Computer Science at [University College London (UCL)](https://www.ucl.ac.uk/), focusing on **EIT-based Tactile Sensing Skin** and **Soft Robot Learning**.
 
-I am fortunate to be advised by [Dr. Thomas George Thuruthel](https://tthuruthel.com/). My research aims to bridge the gap between soft materials and intelligent control, enabling robots to feel and interact with the world more naturally—much like an octopus! 🐙
+I am fortunate to be advised by [Dr. Thomas George Thuruthel](https://tthuruthel.com/) and [Dr. Lorenzo Jamone](https://lorejam.wixsite.com/crisp). My research aims to bridge the gap between soft materials and intelligent control, enabling robots to feel and interact with the world more naturally—much like an octopus! 🐙
 
 Previously, I completed my Master of Engineering in Mechanical Engineering at the [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by [Prof. Chui Chee Kong](https://blog.nus.edu.sg/mpecck/).
 
