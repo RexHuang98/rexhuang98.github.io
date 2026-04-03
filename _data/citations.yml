@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-03'
 papers:
   IZTXOVEAAAAJ:2osOgNQ5qMEC:
     citations: 9
     title: Predicting interaction shape of soft continuum robots using deep visual models
     year: '2024'
   IZTXOVEAAAAJ:IjCSPb-OGe4C:
-    citations: 2
+    citations: 3
     title: 'Dramabench: A six-dimensional evaluation framework for drama script continuation'
     year: '2025'
   IZTXOVEAAAAJ:UeHWp8X0CEIC:
@@ -18,11 +18,11 @@ papers:
     title: Robotic Stirring Mechanism with Novel Actuator for an Automated Drug Discovery Workcell
     year: '2023'
   IZTXOVEAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: Electrical Impedance Tomography Based Finger-Shaped Soft Artificial Skin
     year: '2025'
   IZTXOVEAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 12
     title: Investigations on machine learning-based control-oriented modeling using historical thermal data of buildings
     year: '2023'
   IZTXOVEAAAAJ:u5HHmVD_uO8C:
