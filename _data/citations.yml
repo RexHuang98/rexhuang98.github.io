@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-05-18'
 papers:
   IZTXOVEAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -26,7 +26,7 @@ papers:
     title: Investigations on machine learning-based control-oriented modeling using historical thermal data of buildings
     year: '2023'
   IZTXOVEAAAAJ:u5HHmVD_uO8C:
-    citations: 14
+    citations: 15
     title: Modal analysis method for tensegrity structures via stiffness transformation from node space to task space
     year: '2020'
   IZTXOVEAAAAJ:zYLM7Y9cAGgC:
