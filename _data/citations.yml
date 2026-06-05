@@ -1,24 +1,32 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-05'
 papers:
   IZTXOVEAAAAJ:2osOgNQ5qMEC:
-    citations: 9
+    citations: 10
     title: Predicting interaction shape of soft continuum robots using deep visual models
     year: '2024'
   IZTXOVEAAAAJ:IjCSPb-OGe4C:
     citations: 3
     title: 'Dramabench: A six-dimensional evaluation framework for drama script continuation'
     year: '2025'
-  IZTXOVEAAAAJ:UeHWp8X0CEIC:
+  IZTXOVEAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
+    title: Towards Scalable Multi-Contact Tactile Sensing with Two-Tower Neural Networks in EIT-Based Skins
+    year: '2026'
+  IZTXOVEAAAAJ:UeHWp8X0CEIC:
+    citations: 1
     title: Design and Modelling of Electrical Impedance Tomography-based 3D-Printed Patterned Soft Tactile skins
     year: '2025'
+  IZTXOVEAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: De-occlusion and Image-based Static Shape Control for Soft Robots under Partial Observability
+    year: '2026'
   IZTXOVEAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Robotic Stirring Mechanism with Novel Actuator for an Automated Drug Discovery Workcell
     year: '2023'
   IZTXOVEAAAAJ:qjMakFHDy7sC:
-    citations: 4
+    citations: 8
     title: Electrical Impedance Tomography Based Finger-Shaped Soft Artificial Skin
     year: '2025'
   IZTXOVEAAAAJ:u-x6o8ySG0sC:
@@ -30,6 +38,6 @@ papers:
     title: Modal analysis method for tensegrity structures via stiffness transformation from node space to task space
     year: '2020'
   IZTXOVEAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
-    title: Visual Proprioception and Contact Prediction for Soft Robotic Arms Using Onboard Sensing and Generative Models
+    citations: 1
+    title: Visual proprioception and contact prediction for soft robotic arms using onboard sensing and generative models
     year: '2026'
